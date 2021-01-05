@@ -1,8 +1,8 @@
 <h2 align = 'center'> About Me </h2>
 
 <h2> Preview of deployed application </h2>
-![Capture](https://user-images.githubusercontent.com/61447353/103607827-da312d80-4ee7-11eb-8f42-ca9eb0a8cd27.PNG)
 
+![Capture](https://user-images.githubusercontent.com/61447353/103607827-da312d80-4ee7-11eb-8f42-ca9eb0a8cd27.PNG)
 
 <h2> Application Description </h2>
 
