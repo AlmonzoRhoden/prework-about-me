@@ -17,7 +17,7 @@ https://almonzorhoden.github.io/prework-about-me/
 
     None required.
 
-This is a read only webiste, so just click the link above in the "Deployed application" section to view my first pre-work assignment.
+This is a read only website, so just click the link above in the "Deployed application" section to view my first pre-work assignment.
 
 ## Questions? 
 Email me at almonzo.rhoden@gmail.com, so I can address any questions or concerns you may have regarding my website thank you.
