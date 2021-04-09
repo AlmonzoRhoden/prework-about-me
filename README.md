@@ -14,9 +14,10 @@
 https://almonzorhoden.github.io/prework-about-me/
 
 <h2> Installation instructions </h2>
-This is a read only webiste, so just click the link above in the "Deployed application" section view my pre-work about me.  
 
-    none required
+    None required.
 
-<h2> Questions? </h2>
-Feel free to email me at almonzo.rhoden@gmail.com, so I can address any questions or concerns you may have regarding my website thank you.
+This is a read only webiste, so just click the link above in the "Deployed application" section to view my first pre-work assignment.
+
+## Questions? 
+Email me at almonzo.rhoden@gmail.com, so I can address any questions or concerns you may have regarding my website thank you.
