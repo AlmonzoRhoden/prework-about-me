@@ -2,7 +2,7 @@
 
 <h2> Preview of website</h2>
 
-![Capture](https://user-images.githubusercontent.com/61447353/103607827-da312d80-4ee7-11eb-8f42-ca9eb0a8cd27.PNG)
+![Screen Shot 2021-04-09 at 5 10 38 AM](https://user-images.githubusercontent.com/61447353/114157972-34c89400-98f2-11eb-8b81-447b2a45088f.png)
 
 <h2> Website Description </h2>
 
